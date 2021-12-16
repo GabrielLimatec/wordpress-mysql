@@ -1,4 +1,4 @@
-# wordpress-mysql
+# wordpress-mysql em docker
 1º criar uma pasta como o nome do serviço ex: wordpress
 2º criar um arquivo docker-composer.yml
 3° O arquivo deve ter o seguinte conteudo
